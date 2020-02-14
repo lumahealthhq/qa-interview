@@ -12,9 +12,9 @@ You will find below the necessary credentials to perform this test.
 It's part of your assessment to investigate about the product and figure out how to create a Patient Referral. 
 
 ## Credentials
-https://next.lumahealthstaging.com/login
-qainterview@lumahealth.io
-Lumaqainterview2020!
+- https://next.lumahealthstaging.com/login
+- marcelo+qainterview@lumahealth.io
+- Lumaqainterview2020!
 
 ## Deliverables
 You can choose the best tool to perform this test (selenium, pupeteer, nightmare, preferrably JS tools).
