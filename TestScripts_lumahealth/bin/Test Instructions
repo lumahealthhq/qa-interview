@@ -1,0 +1,12 @@
+Instructions on How to run the test scripts:
+]
+Pre-conditions:
+-This scripts are using Selenium web driver and JUnit. Install selenium and junit JAR files into eclipse
+  To install JAR files, right click on the project and go to Properties, then Java Build Path, click on Add external Jar
+  Select the JAR file, click on ok, and then apply.
+  
+-Must Have Chrome web driver installed in your computer
+
+How to run:
+Please open one Script in eclipse, click on Run-> Run As -> JUnit 
+
