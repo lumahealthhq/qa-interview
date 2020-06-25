@@ -1,3 +1,6 @@
 Given('I am logged in as hospital user') do
-  # Write code here that turns the phrase above into concrete actions
+  self.page = LoginPage.new
+  page.open_url "https://next.lumahealth.io/login"
+  page.user_login LumaTestData.default_login
+  self.page = Homepage.new
 end

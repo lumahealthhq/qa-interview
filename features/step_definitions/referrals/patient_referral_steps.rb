@@ -1,16 +1,18 @@
 When('I go to referrals') do
-  # Write code here that turns the phrase above into concrete actions
+  page.goto_referrals
+  self.page = ReferralsPage.new
 end
 
 When('I add a default patient referral') do
-  # Write code here that turns the phrase above into concrete actions
+  page.add_patient_referral
+  page.fill_patient_referral_form LumaTestData.default_patient_referral_data
+  page.submit_patient_referral_form
 end
 
-Then('I should see referral saved notification') do
-  # Write code here that turns the phrase above into concrete actions
-end
-
-Then('I should patient with data:') do |table|
-  # table is a Cucumber::MultilineArgument::DataTable
-  # Write code here that turns the phrase above into concrete actions
+Then('I should see patient with data:') do |table|
+  data = table.hashes.first.values
+  patient_div_text = page.patient_referral_text(data.first)
+  data.each do |text|
+    expect(patient_div_text).to include(text)
+  end
 end

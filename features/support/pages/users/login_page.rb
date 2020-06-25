@@ -6,5 +6,6 @@ class LoginPage < Page
   def user_login(data)
     data.each{|key, value| self.send "#{key}=", value}
     sign_in
+    wait_for_dom
   end
 end

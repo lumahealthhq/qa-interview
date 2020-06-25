@@ -1,2 +1,0 @@
-class Homepage < Page
-end
