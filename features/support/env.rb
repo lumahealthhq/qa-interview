@@ -1,0 +1,7 @@
+require 'rspec'
+require 'page-object'
+require 'watir'
+require 'watirsome'
+require 'watir-dom-wait'
+require 'pry'
+require 'data_magic'

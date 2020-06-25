@@ -1,0 +1,2 @@
+class Homepage < Page
+end
