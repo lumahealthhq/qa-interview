@@ -12,7 +12,7 @@ You will find below the necessary credentials to perform this test.
 It's part of your assessment to investigate about the product and figure out how to create a Patient Referral. 
 
 ## Credentials
-- https://next.lumahealthstaging.com/login
+- https://next.lumahealth.io/login
 - marcelo+qainterview@lumahealth.io
 - Lumaqainterview2020!
 
