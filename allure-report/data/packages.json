@@ -1,0 +1,113 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Add a new referral succesfully",
+    "children" : [ {
+      "name" : "\"before all\" hook",
+      "uid" : "9108764eada2c23e",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403082628,
+        "stop" : 1593403082630,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "login using a valid account",
+      "uid" : "f4f25a26d3532d4d",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403082630,
+        "stop" : 1593403088793,
+        "duration" : 6163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "access the Referral page",
+      "uid" : "4a178ebcfa421b95",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403088793,
+        "stop" : 1593403094663,
+        "duration" : 5870
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "click on the Add Referral button",
+      "uid" : "56acf64b44f3adca",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403094663,
+        "stop" : 1593403095265,
+        "duration" : 602
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "filling patient personal info",
+      "uid" : "f7ad8fed8e3c31a",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403095265,
+        "stop" : 1593403097968,
+        "duration" : 2703
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "filling appointment info",
+      "uid" : "bc367088a24b8609",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403097968,
+        "stop" : 1593403105467,
+        "duration" : 7499
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "access the created referral",
+      "uid" : "b80801b3edd1d6fc",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403105467,
+        "stop" : 1593403110292,
+        "duration" : 4825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    }, {
+      "name" : "validating the created referral data",
+      "uid" : "a311050a41ec9bbf",
+      "parentUid" : "a8008c2688ce44e2652ca672ed00aadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593403110292,
+        "stop" : 1593403115895,
+        "duration" : 5603
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "true" ]
+    } ],
+    "uid" : "a8008c2688ce44e2652ca672ed00aadd"
+  } ]
+}

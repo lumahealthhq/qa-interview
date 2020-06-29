@@ -1,0 +1,58 @@
+{
+  "uid" : "f4f25a26d3532d4d",
+  "name" : "login using a valid account",
+  "fullName" : "Add a new referral succesfully.login using a valid account",
+  "historyId" : "1385a2eb459bc14447a1934a9c8477ac",
+  "time" : {
+    "start" : 1593403082630,
+    "stop" : 1593403088793,
+    "duration" : 6163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "testClass",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "testMethod",
+    "value" : "login using a valid account"
+  }, {
+    "name" : "package",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "isMultiremote",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4f25a26d3532d4d.json",
+  "parameterValues" : [ "true" ]
+}

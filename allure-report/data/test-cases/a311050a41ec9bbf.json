@@ -1,0 +1,58 @@
+{
+  "uid" : "a311050a41ec9bbf",
+  "name" : "validating the created referral data",
+  "fullName" : "Add a new referral succesfully.validating the created referral data",
+  "historyId" : "5ee23eec3c9fd303b7b4ac4664585e4",
+  "time" : {
+    "start" : 1593403110292,
+    "stop" : 1593403115895,
+    "duration" : 5603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "testClass",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "testMethod",
+    "value" : "validating the created referral data"
+  }, {
+    "name" : "package",
+    "value" : "Add a new referral succesfully"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "isMultiremote",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a311050a41ec9bbf.json",
+  "parameterValues" : [ "true" ]
+}

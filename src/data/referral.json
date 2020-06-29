@@ -1,0 +1,19 @@
+{
+    "patient": {
+        "name": "Vinicius",
+        "dateOfBirth": "09/29/1989",
+        "streetAddress": "Rui Soares Viana St",
+        "addressDetails": "house 3",
+        "tellphoneNumber": "4157413377",
+        "facility": "Hospital",
+        "provider": "Any",
+        "appointmentType": "Checkup",
+        "icd9": "4871",
+        "referringProvider": "Bob Smith",
+        "reasonForVisit": "checkup after flu",
+        "notes": "test notes"
+
+    }
+
+ 
+}

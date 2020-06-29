@@ -1,0 +1,81 @@
+[ {
+  "uid" : "bc367088a24b8609",
+  "name" : "filling appointment info",
+  "time" : {
+    "start" : 1593403097968,
+    "stop" : 1593403105467,
+    "duration" : 7499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b80801b3edd1d6fc",
+  "name" : "access the created referral",
+  "time" : {
+    "start" : 1593403105467,
+    "stop" : 1593403110292,
+    "duration" : 4825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a311050a41ec9bbf",
+  "name" : "validating the created referral data",
+  "time" : {
+    "start" : 1593403110292,
+    "stop" : 1593403115895,
+    "duration" : 5603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56acf64b44f3adca",
+  "name" : "click on the Add Referral button",
+  "time" : {
+    "start" : 1593403094663,
+    "stop" : 1593403095265,
+    "duration" : 602
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4f25a26d3532d4d",
+  "name" : "login using a valid account",
+  "time" : {
+    "start" : 1593403082630,
+    "stop" : 1593403088793,
+    "duration" : 6163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a178ebcfa421b95",
+  "name" : "access the Referral page",
+  "time" : {
+    "start" : 1593403088793,
+    "stop" : 1593403094663,
+    "duration" : 5870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9108764eada2c23e",
+  "name" : "\"before all\" hook",
+  "time" : {
+    "start" : 1593403082628,
+    "stop" : 1593403082630,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7ad8fed8e3c31a",
+  "name" : "filling patient personal info",
+  "time" : {
+    "start" : 1593403095265,
+    "stop" : 1593403097968,
+    "duration" : 2703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
